@@ -2,7 +2,7 @@
 
 A scalable and production-ready **Library Management System** built using **Spring Boot Microservices Architecture**. The application is designed with service discovery, API Gateway routing, DTO-based communication, and standardized API responses to demonstrate modern enterprise application development practices.
 
--------------
+---
 
 ## 🚀 Project Overview
 
@@ -10,13 +10,13 @@ This project consists of independent microservices that collaborate to manage li
 
 The system follows industry-standard microservice design principles including:
 
-* Service Discovery using Eureka Server
-* API Gateway for centralized routing
-* DTO-based data transfer
-* Standardized Response Wrapper pattern
-* RESTful API design
-* Database persistence using MySQL
-* Loose coupling and independent service deployment
+- Service Discovery using Eureka Server
+- API Gateway for centralized routing
+- DTO-based data transfer
+- Standardized Response Wrapper pattern
+- RESTful API design
+- Database persistence using MySQL
+- Loose coupling and independent service deployment
 
 ---
 
@@ -77,44 +77,44 @@ The system follows industry-standard microservice design principles including:
 
 ### Backend
 
-* Java 21
-* Spring Boot 
-* Spring Cloud
+- Java 21
+- Spring Boot 3.x
+- Spring Cloud
 
 ### Microservices Components
 
-* Spring Cloud Gateway
-* Eureka Discovery Server
-* Eureka Discovery Client
+- Spring Cloud Gateway
+- Eureka Discovery Server
+- Eureka Discovery Client
 
 ### Database
 
-* MySQL
+- MySQL
 
 ### Data Access
 
-* Spring Data JPA
-* Hibernate ORM
+- Spring Data JPA
+- Hibernate ORM
 
 ### API Development
 
-* REST APIs
-* DTO Pattern
-* Response Wrapper Pattern
+- REST APIs
+- DTO Pattern
+- Response Wrapper Pattern
 
 ### Build & Dependency Management
 
-* Maven
+- Maven
 
 ### Testing Tools
 
-* Postman
+- Postman
 
 ### Development Tools
 
-* Spring Tool Suite (STS)
-* IntelliJ IDEA
-* Git & GitHub
+- Spring Tool Suite (STS)
+- IntelliJ IDEA
+- Git & GitHub
 
 ---
 
@@ -122,34 +122,34 @@ The system follows industry-standard microservice design principles including:
 
 ### 📖 Book Service
 
-* Add Books
-* View Books
-* Update Book Details
-* Delete Books
+- Add Books
+- View Books
+- Update Book Details
+- Delete Books
 
 ### 🔄 Rental Service
 
-* Create Rental Records
-* Track Rentals
-* Manage Book Rentals
+- Create Rental Records
+- Track Rentals
+- Manage Book Rentals
 
 ### 🌐 API Gateway
 
-* Centralized API Entry Point
-* Request Routing
-* Load Balancing Support
+- Centralized API Entry Point
+- Request Routing
+- Load Balancing Support
 
 ### 🔍 Eureka Service Discovery
 
-* Automatic Service Registration
-* Dynamic Service Discovery
-* Improved Scalability
+- Automatic Service Registration
+- Dynamic Service Discovery
+- Improved Scalability
 
 ### 📦 DTO & Response Wrapper
 
-* Clean API Contracts
-* Consistent API Responses
-* Better Client Integration
+- Clean API Contracts
+- Consistent API Responses
+- Better Client Integration
 
 ---
 
@@ -180,16 +180,16 @@ library-management-microservice
 
 ## 📚 Concepts Demonstrated
 
-* Microservices Architecture
-* Service Discovery
-* API Gateway Pattern
-* RESTful Web Services
-* DTO Pattern
-* Response Wrapper Pattern
-* Layered Architecture
-* Dependency Injection
-* Database Integration
-* Spring Cloud Ecosystem
+- Microservices Architecture
+- Service Discovery
+- API Gateway Pattern
+- RESTful Web Services
+- DTO Pattern
+- Response Wrapper Pattern
+- Layered Architecture
+- Dependency Injection
+- Database Integration
+- Spring Cloud Ecosystem
 
 ---
 
@@ -197,14 +197,14 @@ library-management-microservice
 
 This project demonstrates practical experience with:
 
-* Enterprise Application Development
-* Spring Boot Microservices
-* Distributed System Design
-* API Gateway Routing
-* Service Discovery with Eureka
-* Database Integration using JPA/Hibernate
-* Clean Code and Layered Architecture
-* Git Version Control
+- Enterprise Application Development
+- Spring Boot Microservices
+- Distributed System Design
+- API Gateway Routing
+- Service Discovery with Eureka
+- Database Integration using JPA/Hibernate
+- Clean Code and Layered Architecture
+- Git Version Control
 
 ---
 
